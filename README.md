@@ -10,6 +10,8 @@ A machine learning model to detect the likelihood of having a heart attack.
 * numpy, pandas, matplotlib, seaborn.
 * streamlit 
 
+![alt text](https://prnt.sc/N_8XkAvRFTXG)
+
 
 ### Data
 
