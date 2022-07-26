@@ -1,10 +1,16 @@
 # Heart-Attack-Prediction
+
+## Description
 A machine learning model to detect the likelihood of having a heart attack. 
 
-Machine Learning algorithms used: Naive Bayes 
+## Getting Started
 
-Accuracy achieved: 95%
+### Dependencies
 
-I used streamlit to deploy my machine learning model as a web application. 
+* numpy, pandas, matplotlib, seaborn.
+* streamlit 
 
-Dataset used: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+
+### Data
+
+* https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
